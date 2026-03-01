@@ -13,7 +13,7 @@
 
 ```bash
 > languages: English / French
-> age : 17 yo
+> age: 17 yo
 ```
 
 Passionate about building efficient systems and automating repetitive workflows.  
