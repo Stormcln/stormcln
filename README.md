@@ -29,7 +29,7 @@ Always optimizing. Always improving.
 
 ---
 
-## 🎯 Current_Objectives
+## 🎯 Objectives
 
 ```bash
 > automate repetitive tasks
@@ -49,7 +49,7 @@ Always optimizing. Always improving.
 
 ---
 
-## 📊 System_Metrics
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stormcln&theme=tokyonight&show_icons=true&hide_border=true" />
