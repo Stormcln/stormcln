@@ -9,7 +9,7 @@
 
 ---
 
-## 👾 About_Me
+## 👾 About Me
 
 ```bash
 > languages: English / French
@@ -21,7 +21,7 @@ Always optimizing. Always improving.
 
 ---
 
-## ⚙ Language
+## ⚙ Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,php,linux,git" />
